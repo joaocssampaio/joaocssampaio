@@ -1,4 +1,6 @@
-![jocasGithub](https://i.imgur.com/iRNcsh3.gif)
+<p align="center">
+  <img src="https://i.imgur.com/iRNcsh3.gif">
+</p>
 
 <h1 align = 'center' style="border-bottom: none;">
 Hello! My name is <b>João Carlos</b> 👾
